@@ -1,0 +1,7 @@
+/.terraform
+.terraform.lock.hcl
+.keypair1.pem
+.keypair1.pemZone.Identifier
+*.pem
+.terraform.tfstate
+.terraform.tfstate.backup
